@@ -1,0 +1,13 @@
+body {
+    background-color: #1e0031;
+    color: #d89e00;
+}
+#wel {
+    text-align: center;
+}
+#but {
+    color: #d89e00;
+    background-color: #1e0031;
+    border-radius: 50%;
+    border: 10%;
+}
