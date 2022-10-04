@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @db1234719
 - 👀 I’m interested in Html,css,javascript
 - 🌱 I’m currently learning web-frontend
-- 💞️ I’m looking to collaborate on nothing:)
+- 💞️ I’m looking to collaborate on my own project but not anyone!
 - 📫 How to reach me with my email "erfan.mohamadi110@gmail.com"
 
 <!---
